@@ -1,6 +1,6 @@
 # SMTP-IP-Changer
 
-Introduction video : https://www.youtube.com/watch?v=VWqYQhIY6h0
+![alt text](https://media.giphy.com/media/kFIk0PR7e9zyRuywvO/giphy.gif)
 
-![Imgur Image](https://giphy.com/gifs/f8QKzmzSKCt83qfbeP/html5.gif)
-![alt text](https://giphy.com/gifs/f8QKzmzSKCt83qfbeP/html5.gif)
+![Imgur Image](https://imgur.com/aWD6pDx.png)
+
